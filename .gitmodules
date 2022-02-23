@@ -1,0 +1,42 @@
+[submodule "02_Interview/CS-Notes"]
+	path = 02_Interview/CS-Notes
+	url = git@github.com:CyC2018/CS-Notes.git
+[submodule "02_Interview/coding-interview-university"]
+	path = 02_Interview/coding-interview-university
+	url = git@github.com:jwasham/coding-interview-university.git
+[submodule "03_Algorithm/labuladong_fucking-algorithm"]
+	path = 03_Algorithm/labuladong_fucking-algorithm
+	url = git@github.com:labuladong/fucking-algorithm.git
+[submodule "03_Algorithm/MisterBooo_LeetCodeAnimation"]
+	path = 03_Algorithm/MisterBooo_LeetCodeAnimation
+	url = git@github.com:MisterBooo/LeetCodeAnimation.git
+[submodule "03_Algorithm/azl397985856_leetcode"]
+	path = 03_Algorithm/azl397985856_leetcode
+	url = git@github.com:azl397985856/leetcode.git
+[submodule "03_Algorithm/geekxh_hello-algorithm"]
+	path = 03_Algorithm/geekxh_hello-algorithm
+	url = git@github.com:geekxh/hello-algorithm.git
+[submodule "03_Algorithm/doocs_leetcode"]
+	path = 03_Algorithm/doocs_leetcode
+	url = git@github.com:doocs/leetcode.git
+[submodule "20_Android/yoyiyi_SoleilNotes"]
+	path = 20_Android/yoyiyi_SoleilNotes
+	url = git@github.com:yoyiyi/SoleilNotes.git
+[submodule "03_Algorithm/yuanguangxin_LeetCode"]
+	path = 03_Algorithm/yuanguangxin_LeetCode
+	url = git@github.com:yuanguangxin/LeetCode.git
+[submodule "03_Algorithm/afatcoder_LeetcodeTop"]
+	path = 03_Algorithm/afatcoder_LeetcodeTop
+	url = git@github.com:afatcoder/LeetcodeTop.git
+[submodule "01_Note/doocs_jvm"]
+	path = 01_Note/doocs_jvm
+	url = git@github.com:doocs/jvm.git
+[submodule "03_Algorithm/TheAlgorithms/Python"]
+	path = 03_Algorithm/TheAlgorithms/Python
+	url = git@github.com:TheAlgorithms/Python.git
+[submodule "03_Algorithm/TheAlgorithms/Java"]
+	path = 03_Algorithm/TheAlgorithms/Java
+	url = git@github.com:TheAlgorithms/Java.git
+[submodule "03_Algorithm/TheAlgorithms/C"]
+	path = 03_Algorithm/TheAlgorithms/C
+	url = git@github.com:h4x0r139/C.git

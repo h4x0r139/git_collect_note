@@ -1,7 +1,7 @@
 [toc]
 
-# git_collect_sub
-个人收集的有用项目，使用git submodule方式，引用已有项目。
+# git_collect_note
+收集软件开发过程中的各项技术知识点，以及面试题解、leetcode与算法等项目。使用git submodule方式，引用已有项目。
 
 # 项目列表
 

@@ -40,3 +40,6 @@
 [submodule "03_Algorithm/TheAlgorithms/C"]
 	path = 03_Algorithm/TheAlgorithms/C
 	url = git@github.com:h4x0r139/C.git
+[submodule "02_Interview/Snailclimb_JavaGuide"]
+	path = 02_Interview/Snailclimb_JavaGuide
+	url = git@github.com:Snailclimb/JavaGuide.git

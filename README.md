@@ -1,6 +1,7 @@
 [toc]
 
 # git_collect_note
+
 收集软件开发过程中的各项技术知识点，以及面试题解、leetcode与算法等项目。使用git submodule方式，引用已有项目。
 
 # 项目列表
@@ -25,6 +26,7 @@ git submodule add git@github.com:doocs/jvm.git 01_Note/doocs_jvm
 git submodule add git@github.com:TheAlgorithms/Python.git 03_Algorithm/TheAlgorithms/Python
 git submodule add git@github.com:TheAlgorithms/Java.git 03_Algorithm/TheAlgorithms/Java
 git submodule add git@github.com:h4x0r139/C.git 03_Algorithm/TheAlgorithms/C
+git submodule add git@github.com:Snailclimb/JavaGuide.git 02_Interview/Snailclimb_JavaGuide
 ```
 
 
@@ -58,6 +60,12 @@ git submodule add git@github.com:h4x0r139/C.git 03_Algorithm/TheAlgorithms/C
 - web 开发者（自学、非计算机科学学位）蜕变至 Google 软件工程师所制定的计划;；外企面试题包括科技巨头：Amazon、Facebook、Google，以及 Microsoft。
 
 
+
+### [JavaGuide](git@github.com:Snailclimb/JavaGuide.git)
+
+- starred：117k；Java学习+面试指南
+
+- 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 
 ## 03_Algorithm：算法与LeetCode
 
@@ -151,6 +159,7 @@ git submodule add git@github.com:h4x0r139/C.git 03_Algorithm/TheAlgorithms/C
 1. [Algorithms, 4th Edition 算法4精华笔记](https://github.com/MeandNi/Algorithms4-Common) ，《算法（第4版）》
 1. [算法图解](https://github.com/zhanwen/AlgorithmDiagram)：starred：283；《算法图解》的算法代码示例，用Python和Java实现
 1. [牛客网-剑指offer](https://github.com/DmrfCoder/AlgorithmAndDataStructure)
+1. https://github.com/GourdErwa/review-notes：后端Spark、Scala
 
 ## 
 

@@ -197,7 +197,7 @@ git submodule update
 ```
 ### 2. 增加新的submodule项目
 ```shell
-git  submodule add git@github.com:SubModule.git SubModule
+git submodule add git@github.com:SubModule.git SubModule
 ```
 ### 3. submodule项目内部有更新，同步最新
 

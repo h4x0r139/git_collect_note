@@ -61,7 +61,7 @@ git submodule add git@github.com:Snailclimb/JavaGuide.git 02_Interview/Snailclim
 
 
 
-### [JavaGuide](git@github.com:Snailclimb/JavaGuide.git)
+### [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
 - starred：117k；Java学习+面试指南
 

@@ -43,3 +43,6 @@
 [submodule "02_Interview/Snailclimb_JavaGuide"]
 	path = 02_Interview/Snailclimb_JavaGuide
 	url = git@github.com:Snailclimb/JavaGuide.git
+[submodule "02_Interview/kdn251_interviews"]
+	path = 02_Interview/kdn251_interviews
+	url = git@github.com:kdn251/interviews.git

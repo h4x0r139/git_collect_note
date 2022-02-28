@@ -32,6 +32,7 @@ git submodule add git@github.com:TheAlgorithms/Python.git 03_Algorithm/TheAlgori
 git submodule add git@github.com:TheAlgorithms/Java.git 03_Algorithm/TheAlgorithms/Java
 git submodule add git@github.com:h4x0r139/C.git 03_Algorithm/TheAlgorithms/C
 git submodule add git@github.com:Snailclimb/JavaGuide.git 02_Interview/Snailclimb_JavaGuide
+git submodule add git@github.com:kdn251/interviews.git 02_Interview/kdn251_interviews
 ```
 
 
@@ -72,6 +73,13 @@ git submodule add git@github.com:Snailclimb/JavaGuide.git 02_Interview/Snailclim
 
 - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 
+### [kdn251/interviews](https://github.com/kdn251/interviews)
+
+- starred：56k；软件工程技术面试个人指南；
+
+- 英文+中文翻译
+
+
 ## 03_Algorithm：算法与LeetCode
 
 目录：[03_Algorithm](03_Algorithm)
@@ -89,15 +97,6 @@ git submodule add git@github.com:Snailclimb/JavaGuide.git 02_Interview/Snailclim
 - starred：60k；《吴师兄学算法》；
 
 - 动画演示leetcode解题思路
-
-
-
-### [kdn251/interviews](https://github.com/kdn251/interviews)
-
-- starred：56k；软件工程技术面试个人指南；
-
-- 英文+中文翻译
-
 
 
 ### [azl397985856/leetcode](https://github.com/azl397985856/leetcode)

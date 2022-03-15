@@ -46,3 +46,6 @@
 [submodule "02_Interview/kdn251_interviews"]
 	path = 02_Interview/kdn251_interviews
 	url = git@github.com:kdn251/interviews.git
+[submodule "20_Android/pengxurui_Android-NoteBook"]
+	path = 20_Android/pengxurui_Android-NoteBook
+	url = git@github.com:pengxurui/Android-NoteBook.git

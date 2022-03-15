@@ -33,6 +33,7 @@ git submodule add git@github.com:TheAlgorithms/Java.git 03_Algorithm/TheAlgorith
 git submodule add git@github.com:h4x0r139/C.git 03_Algorithm/TheAlgorithms/C
 git submodule add git@github.com:Snailclimb/JavaGuide.git 02_Interview/Snailclimb_JavaGuide
 git submodule add git@github.com:kdn251/interviews.git 02_Interview/kdn251_interviews
+git submodule add git@github.com:pengxurui/Android-NoteBook.git 20_Android/pengxurui_Android-NoteBook
 ```
 
 
@@ -149,6 +150,8 @@ git submodule add git@github.com:kdn251/interviews.git 02_Interview/kdn251_inter
 
 - starred：46k；Java实现各种数据结构与算法
 
+- [目录](03_Algorithm/TheAlgorithms/C)
+
 
 
 #### [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
@@ -178,6 +181,8 @@ git submodule add git@github.com:kdn251/interviews.git 02_Interview/kdn251_inter
 - starred：400；Android技术面试   
 - 技术面试必备知识点：Android、Java、C、C++、Python、Flutter、Gradle、数据结构、计算机组成原理、计算机网络、操作系统、算法、数据结构、设计模式、密码学等等
 
+### [pengxurui/Android-NoteBook](https://github.com/pengxurui/Android-NoteBook)
+- starred：135；Android 进阶成长路线笔记 & 博客
 
 
 ## 21_WebBE：后端开发
